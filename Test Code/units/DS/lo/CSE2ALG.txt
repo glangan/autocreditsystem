@@ -1,0 +1,5 @@
+Explain the overall objectives of the field of Algorithms and Data Structures
+Identify and describe in detail a range of data structures, and searching and sorting algorithms particularly in the context of computing.
+Explain each algorithm or structure, implement them in Java, and analyse their efficiency in relation to real-world problems.
+Identify, describe and apply the most suitable technique to use, where there are multiple techniques that could be used.
+Identify a problem in application domains, and design and implement a solution (in Java) and evaluate its performance.

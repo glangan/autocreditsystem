@@ -1,0 +1,11 @@
+Students will have the opportunity to develop as ICT professionals with the abilities and skills to:
+adapt and apply techniques for acquiring, converting, transmitting, storing, managing and analysing data, information and knowledge;
+explain and adapt appropriate ICT to support business processes;
+analyze a networking or security problem, identify and define the ICT requirements, apply knowledge of ICT principles and technical skills to develop and evaluate strengths and weaknesses of potential solutions;
+design, implement, and evaluate a secure ICT network to meet desired needs.
+Students should develop attitudes needed by an ICT professional to:
+take initiative and work independently;
+communicate effectively at a professional level;
+use abstraction and computational, creative and critical thinking to problem solve;
+be aware of the social consequences of their work;
+act in accordance with best practice and industry standards.

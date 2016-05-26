@@ -1,0 +1,1 @@
+This unit introduces Abstract Data Structures (ADS) and the algorithms that operate upon them. ADS such as arrays, lists, two-dimensional structures, trees and graphs are studied along with various representations. ADS that utilise these structures are also covered. Complexity analysis is used throughout the unit. The programming language currently used in this unit is C++

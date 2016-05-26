@@ -1,0 +1,6 @@
+Students who succeed in all aspects of this course will be able to:
+describe and contrast various algorithmic components, and relate them to specific corresponding data structures.
+analyse program fragments and explain their types, behaviours and effects.
+design algorithmic solutions to simple problems and present their implementation in a functional programming language.
+design data structures appropriate for the representation and implementation of simple algorithmic problems.
+analyse small programming problems to suggest, design and implement appropriate modular program structures, based on a data-directed approach.

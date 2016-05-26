@@ -1,0 +1,9 @@
+This unit introduces fundamental techniques for solving computational problems using computer programming or scripting languages. 
+It describes basic programming principles and strategies and how to use them effectively. Major topics covered in the unit include:
+The basic program development process (requirements definition, algorithm design, coding, testing and debugging)
+Programs as calculators (expressions, variables, types and functions) Breaking (small) problems down into sequential steps (assignment, sequence and choice)
+Solving (bigger) problems through repetition (loops, recursion and higher-order iterators)
+Making programs fault-tolerant (input checking and exception handling)
+Input and output (user interaction and accessing files)
+Basic principles for showing that programs are correct (test-case design)
+Basic principles of object-oriented programming (encapsulation, classes, objects, attributes and behaviours)

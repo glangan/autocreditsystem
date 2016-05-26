@@ -1,0 +1,10 @@
+1. IMPLEMENT DATA STRUCTURES
+1.1  Implement the core data structures used as the basis for common Abstract Data Types.
+1.2  Implement a data structure and algorithm solution encapsulated within an Abstract Data Type.
+2. SELECT DATA STRUCTURE/ALGORITHM COMBINATIONS
+2.1  Determine and describe the running time and memory space usage of common algorithms.
+2.2  Select and justify appropriate combinations of data structures and algorithms to solve software engineering problems.
+3. VERIFY ABSTRACT DATA TYPES
+3.1  Develop and use test sets to verify the correct functioning of Abstract Data Types.
+4. DEVELOP ALGORITHMIC SOLUTIONS
+4.1  Adapt or invent new algorithms and data structures for software engineering problems.

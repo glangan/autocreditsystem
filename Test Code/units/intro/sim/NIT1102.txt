@@ -1,0 +1,2 @@
+This unit introduces students to modern computer programming language, problem solving and algorithm development. Students will be exposed to multiple design strategies, including top-down design and recursive design with functions, object-based programming, and object-oriented design. Content includes: Data Types and Expressions, Control Statements, Strings and Text Files, Design with Functions, Design with Classes, Graphical User Interfaces, Simple Graphics and Image Processing.
+

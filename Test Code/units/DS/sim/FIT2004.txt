@@ -1,0 +1,8 @@
+This unit introduces students to problem solving concepts and 
+techniques fundamental to the science of programming. 
+In doing this it covers problem specification, algorithmic design, 
+analysis and implementation. Detailed topics include analysis of best, 
+average and worst-case time and space complexity; introduction to 
+numerical algorithms; recursion; advanced data structures such as 
+heaps and B-trees; hashing; sorting algorithms; searching algorithms; 
+graph algorithms; and numerical computing.

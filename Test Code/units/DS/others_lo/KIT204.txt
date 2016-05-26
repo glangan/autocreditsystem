@@ -1,0 +1,8 @@
+On successful completion of this unit, you will be able to:
+select and effectively apply processes, methodologies, tools, research skills and techniques to analyse, model and evaluate potential solutions for ICT products and services;
+identify and analyse user needs and take them into account in the selection and evaluation of ICT systems and solutions;
+analyse a problem, identify and define the ICT requirements, apply knowledge of ICT principles and technical skills to develop and evaluate strengths and weaknesses of potential solutions.
+Students should acquire attitudes needed by an ICT professional to:
+be an effective team member;
+communicate effectively at a professional level;
+respond appropriately to economic, social, legal and ethical considerations.

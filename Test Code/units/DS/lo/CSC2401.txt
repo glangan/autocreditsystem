@@ -1,0 +1,9 @@
+On completion of this course the student will have learned or achieved:
+
+Develop recursive solutions to problems;
+Apply sorting algorithms and able to compare and evaluate their efficiency;
+Apply dynamic memory, specifically with classes;
+Select and apply dynamic linked data structures, including STL classes;
+Create and traverse tree data structures;
+Design and create template classes;
+Apply abstract classes to create a class hierarchy.

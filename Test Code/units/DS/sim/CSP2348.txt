@@ -1,0 +1,4 @@
+Algorithms: fundamental principles of algorithms; analysis of algorithms to determine their time and space efficiency; the notion of complexity of algorithms; recursive algorithms and their complexity.
+Data structures (arrays, linked lists, binary trees, and hash tables): their general properties; their specific properties in Java; their algorithms in insertion, deletion, searching, merging, and sorting.
+Fundamentals of abstract data types (ADTs): distinction between data types and abstract data types; design considerations of ADTs; ADTs and software reusability; ADTs in Java Collection.
+Commonly used ADTs (Stacks, Queues, Lists, Sets, Maps): their concepts and applications; their design requirements; their implementation using alternative data structures; existing implementation in the Java classes.

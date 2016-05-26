@@ -1,0 +1,8 @@
+At the completion of this unit students should be able to:
+
+recognise the relationship between a problem description and program design;
+implement problem solving strategies;
+construct and test simple computer programs;
+analyse and debug existing programs;
+recognise the importance of programming and documentation;
+apply good programming practices in accordance with industry standards and professional ethics.

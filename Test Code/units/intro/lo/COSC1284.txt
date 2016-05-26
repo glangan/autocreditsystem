@@ -1,0 +1,10 @@
+Upon successful completion of this course you should be able to:
+
+demonstrate (through small programming exercises) knowledge and skills with concepts of program design, acceptable coding standards, event-driven programming and graphical user interfaces
+use Java programming language as a vehicle to demonstrate good design practices
+use arrays and control structures to demonstrate skills of basic algorithms and data structures
+apply knowledge of the basic principles of the object oriented development process to the analysis and design of solutions for small scale problems
+analyse requirements for a small scale programming project
+design and implement small-scale software systems
+explain the rationale for program design, data structures and user interface design chosen
+develop skills for self-directed learning.

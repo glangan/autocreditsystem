@@ -1,0 +1,11 @@
+Each week there is a three-hour lecture. The following topics will be covered in the lectures:
+
+Java programming language
+Analysis of algorithms
+Fundamental data structures(linked lists, stacks and queues)
+Trees, search trees
+Priority queues
+Sorting, selection and sets
+Hash tables and skip lists
+Text processing
+Graphs

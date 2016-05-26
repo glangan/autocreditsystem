@@ -1,0 +1,10 @@
+
+The subject will cover the following topics:
+Review of Java, the Java programming environment and object-oriented programming.
+Software engineering concepts of designing programs for accuracy, maintainability, ease of development and reusability.
+Linear and binary array searching.
+Linked data representations and their associated processing techniques.
+Recursion.
+Stacks, queues, binary trees, heaps and graphs.
+Sorting, Big-O notation and sort comparisons.
+The development of object-oriented programs using standard and local packages.

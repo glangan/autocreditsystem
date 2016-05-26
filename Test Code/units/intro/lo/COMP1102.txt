@@ -1,0 +1,4 @@
+The topic aims to help develop:
+An understanding of the nature of programming using a modern high-level programming language
+The ability to read, comprehend and write simple programs
+An appreciation of the process by which software systems are developed, including their specification, design, implementation, testing and maintenance

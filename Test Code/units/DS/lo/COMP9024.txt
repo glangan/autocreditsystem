@@ -1,0 +1,5 @@
+The aims of this course are
+
+to introduce the basic data structures and algorithms, and
+
+to develop skills in the design and analysis of algorithms and data structures.

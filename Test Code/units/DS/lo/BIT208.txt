@@ -1,0 +1,4 @@
+write programs that use standard and custom data structures
+implement different types of algorithms for problem-solving
+analyse the implications in terms of space and time complexity of using alternative data structures and algorithms in problem solving
+understand and apply techniques for analysing program performance using various data structures and algorithms design

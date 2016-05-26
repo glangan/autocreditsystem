@@ -1,0 +1,7 @@
+Design (Level 2) 
+1. Ability to analyse scalability of algorithms using mathematical tools of asymptotic notation. They will be able to analyse recursive structures by setting up and solving asymptotic recurrence relations.
+Engineering/IT Specialisation (Level 2) 
+2. Understanding of commonly used data structures, including lists, stacks, queues, priority queues, search trees, hash tables, and graphs. This covers the way information is represented in each structure, algorithms for manipulating the structure, and analysis of asymptotic complexity of the operations.
+3. Ability to write code that recursively performs an operation on a data structure.
+4. Understanding of basic algorithms related to data structures, such as algorithms for sorting, tree traversals, and graph traversals.
+5. Experience designing an algorithmic solution to a problem, coding it, and analysing its complexity.

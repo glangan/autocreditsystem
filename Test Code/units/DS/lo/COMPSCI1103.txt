@@ -1,0 +1,13 @@
+At the end of this course, students will: 
+1. be able to competently program in C/C++ in the OO paradigm, 
+2. be able to manage memory usage in C/C++ programs, 
+3. be able to explain fundamental computing algorithms, 
+4. be able to analyse algorithms and identify key algorithmic strategies, 
+5. be familiar with fundamental software engineering practices, 
+6. have an overview of programming language design issues, 
+7. have developed their professional writing skills, 
+8. have developed their problem solving skills, 
+9. have worked in small group and team environments, 
+10. have an overview of ethics in computer science, 
+11. understand what abstract data types are, and 
+12. be able to apply elementary abstract data types to solve programming problems.

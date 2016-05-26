@@ -1,0 +1,8 @@
+On completion of this subject the student is expected to:
+
+Read, write and debug typical small-scale programs in a system programming language such as C
+Discuss, analyze, implement, and apply standard data structures such as linked lists, binary search trees, and hash tables
+Discuss, analyze, and apply a range of sorting and searching algorithms
+Present logical arguments for the correctness of a given algorithm
+Choose between different algorithms for simple problems by analysing their complexity
+Use a command line interface and standard development tools for programming

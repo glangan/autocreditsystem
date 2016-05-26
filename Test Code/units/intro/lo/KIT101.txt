@@ -1,0 +1,8 @@
+On successful completion of this unit, you will be able to:
+select and effectively apply basic processes, methodologies, tools, and techniques to analyse, model, and develop software solutions;
+analyse a problem, identify and define an algorithm, apply knowledge of ICT principles and technical skills to develop a potential solution;
+design, implement, and evaluate a program to meet desired needs.
+You will also acquire attitudes needed by an ICT professional to:
+take initiative and work independently;
+communicate effectively;
+use abstraction and computational, creative and critical thinking to problem solve.

@@ -1,0 +1,7 @@
+Upon successful completion of this subject students should be able to:
+
+1.	Demonstrate a working knowledge of the basic constructs in the object-oriented language Java.
+2.	Use the BlueJ programming environment to build simple software systems.
+3.	Design and code a software system that correctly implements a solution to a small problem defined by a specification, and follows specific design rules.
+4.	Comprehend and use basic program control constructs of sequence, selection and iteration.
+5.	Comprehend and use code that implements arrays and the basic sorting and searching algorithms.

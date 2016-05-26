@@ -1,0 +1,5 @@
+1. On successfully completing this unit, students will be able to: Demonstrate a basic understanding of the theoretical foundations of information technology (including binary numbers and Boolean logic);
+2. Design and write HTML webpages, including CSS;
+3. Demonstrate competency in applying fundamental programming concepts and data structures to create small software applications using a graphical user interface and a variety of controls for user interaction, and employing good programming principles;
+4. Understand the fundamentals of file input/output and relational databases; and
+5. Test software applications in a systematic and efficient way.

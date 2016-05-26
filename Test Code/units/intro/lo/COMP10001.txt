@@ -1,0 +1,8 @@
+On completion of this subject the student is expected to:
+
+Use the fundamental programming constructs (sequence, alternation, selection)
+Use the fundamental data structures (arrays, records, lists, associative arrays)
+Use abstraction constructs such as functions
+Understand and employ some basic program structures
+Understand and employ some basic algorithmic problem solving techniques
+Read, write, and debug simple, small programs

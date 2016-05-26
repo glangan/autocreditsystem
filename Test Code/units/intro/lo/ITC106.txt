@@ -1,0 +1,8 @@
+be able to explain the steps involved in a disciplined approach to problem-solving, algorithm development and coding;
+be able to demonstrate and explain elements of good programming style;
+be able to identify, isolate and correct errors in all phases of the programming process;
+be able to interpret algorithms and program code;
+be able to appreciate and understand the concept of object orientation as an approach to data abstraction;
+be able to apply sound program analysis, design, coding, debugging, testing and documentation techniques to simple programming problems;
+be able to write code in an appropriate coding language;
+be able to examine, recognise and be aware of alternate programming approaches to include a broad discussion of procedural and object oriented approaches.

@@ -1,0 +1,12 @@
+This course is designed for students who have had little or no programming experience. The course aims to teach students principles, design and development of object-oriented programs. It covers topics such as modern IDEs, pseudocode, variables, constants, data types, operators, expressions, statements, classes, objects, inheritance, loops, methods, passing parameters and arrays. Students will learn how to design, implement and test programs using a modern IDE.
+Introduction to Object Technology and Java
+Variables, Types and Operators
+Classes, Objects and Methods
+Problem Solving and Control Statements
+Control Statements and Logical Operators
+Program Design: Methods and Reusability
+Arrays and ArrayLists
+Array Searching and Sorting
+GUI Components
+Input Data Validation: Characters, Strings and Regular Expressions
+Files Processing

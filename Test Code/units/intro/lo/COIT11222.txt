@@ -1,0 +1,9 @@
+On successful completion of this course, you will be able to:
+Understand the principles of object-oriented programming.
+Demonstrate the use of modern IDE (integrated development environment).
+Develop programs using various data types, operators, expressions, statements and loops.
+Develop programs using arrays for storing, searching and sorting data.
+Develop programs using user defined methods, parameters and arguments.
+Develop programs using graphical user interface and streams.
+Apply techniques used to produce quality programs.
+Design programs that: (a) are easy to maintain, (b) are free from logic errors, (c) are free from runtime errors, (d) validate input data, (e) respond appropriately to invalid input data, (f) are easy to debug and (g) promote the reuse of code.

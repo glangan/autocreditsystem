@@ -1,0 +1,13 @@
+You will be an ICT professional with the abilities and skills to:
+1. adapt and apply algorithms and data structures for storing, managing and analysing data, information and
+knowledge;
+2. select and effectively apply algorithms and data structures to develop ICT products and services;
+3. analyse algorithms and code to determine the runtime (and space) complexity, and evaluate strengths and
+weaknesses of potential algorithms; and
+4. use algorithm design techniques to develop new algorithms for a given problem.
+You will acquire attitudes needed by an ICT professional to:
+5. take initiative and work independently;
+6. communicate effectively suing appropriate terminology;
+7. use abstraction and computational, creative and critical thinking to problem solve;
+8. continue lifelong learning;
+9. act in accordance with best practice and industry standards.

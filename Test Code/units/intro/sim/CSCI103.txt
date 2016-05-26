@@ -1,0 +1,17 @@
+CSCI103 introduces the basic concepts of algorithms and their relationship to data structures and problem solving. This subject emphasises problem solving techniques leading to the development of algorithms rather than their implementation or a formal mathematical treatment of algorithms. Topics include sorting, searching and counting problems and the principal algorithms used in their solution. Common approaches to algorithm development and analysis will be examined.
+1 Course information: algorithms and problem solving, what is it
+and why do we need it?
+2 Introduction to algorithms and problem solving.
+3 Pseudocode and Flowcharts
+4 Elementary algorithms
+5 Records, arrays, lists
+6 Sorting and searching algorithms
+7 Linked list
+8 Queues and stacks
+9 Recursion
+10 Trees
+11 Graphs
+12 Algorithm analysis: empirical measurement, performance
+comparison
+13 Algorithmic strategies: Brute force, greedy, divide and conquer
+Algorithmic strategies: Backtracking, heuristics

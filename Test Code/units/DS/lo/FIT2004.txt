@@ -1,0 +1,6 @@
+At the completion of this unit, students should be able to:
+
+analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;
+prove correctness of programs, analyse their space and time complexities;
+compare and contrast various abstract data types and use them appropriately;
+develop and implement algorithms to solve computational problems.

@@ -1,0 +1,5 @@
+On successful completion of this unit you will demonstrate that you can:
+1.	Read, understand and modify given program code [Technology];
+2.	Used an Integrated Development Environment to build simple software systems [Build];
+3.	Design algorithmic solutions to a range of computational problems from various areas [Design]; and
+4.	Work independently as well as with others to deliver effective and well documented solutions to a number of small problems following specific design rules [Design, Build].

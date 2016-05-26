@@ -1,0 +1,13 @@
+This unit is an introductory computer science unit, 
+providing a practical introduction to basic computing and 
+programming concepts. Students gain an understanding of,
+ and practical experience in, computer programming; 
+practical experience in implementing informal prose 
+descriptions of problem solutions using an imperative language; 
+an understanding of, and practical experience in, designing, 
+coding, testing and debugging simple algorithms; and 
+an understanding of the principle of incremental development. 
+Other topics include: the concept of program correctness; the 
+differences between high-level languages, assembly languages
+ and machine languages; the role played by compilers; and the
+ execution of programs by computer hardware.

@@ -1,0 +1,4 @@
+Upon successful completion of this subject, students should:
+be able to apply a variety of abstract data structures to the solution of well-defined problems;
+be able to implement selected data structures in the Java language;
+be able to design well-structured solutions to programming problems and implement these solutions in the Java language.

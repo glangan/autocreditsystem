@@ -1,0 +1,8 @@
+select and effectively apply processes, methodologies, tools and techniques to analyse, model and develop ICT products;
+analyse a problem, apply knowledge of ICT principles and technical skills to design, implement, and evaluate an ICT interface, component, or program to meet desired needs.
+Students should acquire attitudes needed by an ICT professional to:
+be an effective team member;
+apply a user-centered approach when designing an ICT-based solution;
+communicate effectively at a professional level;
+use abstraction and computational, creative and critical thinking to problem solve;
+act in accordance with best practice and industry standards.

@@ -1,0 +1,10 @@
+The unit covers the definition of Artificial Intelligence and its subfields; introduces foundational logic and knowledge
+representation; and considers social, ethical, and philosophical consequences of the theory and practice of AI.
+Students will learn different perspectives on the approach to creating AI, its purpose, and its validity.
+The unit provides an introduction to many AI sub-fields, including: searching, expert systems, machine learning,
+biological inspired approaches, natural language processing, computer vision, intelligent agents, and robotics.
+Students will be exposed to state-of-the-art examples as well as emerging technologies and get practical experience
+of solving interesting problems in each of these sub-fields.
+The unit will highlight the increasingly important social and economic roles of AI and will feature guest lectures from
+research and/or industry experts to highlight current research directions and deepen students? understanding of
+specific topics.

@@ -1,0 +1,13 @@
+This unit will provide students with an overview of programming and 
+its role in problem-solving, and strategies for designing solutions to 
+programming problems. Beginning with the fundamental characteristics of 
+computers and how they represent information, the unit will develop the 
+concepts of data types, declarations (of the data a program will use), 
+expressions (calculations) and statements (actions). Building on these 
+low-level constructs the unit will examine ways to manage the complexity 
+in a program with control structures, block structure, methods (functions) 
+and their parameters, culminating in the high-level organisational mechanisms 
+of classes and objects. More advanced topics such as error handling using 
+exceptions, basic graphical user interface design and construction, and 
+text-based input and output will also be covered. The 
+Java programming language will be used.

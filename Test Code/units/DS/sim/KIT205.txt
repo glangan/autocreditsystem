@@ -1,0 +1,15 @@
+This unit extends the first year treatment in KIT107 of standard data 
+structures and algorithms for solving
+computational problems. 
+Topics include: data structures (such as balanced trees and hash tables) 
+for collections,
+(binary heaps for) priority queues, sorting algorithms 
+(e.g. heapsort, mergesort and quicksort), graphs and graph 
+algorithms 
+(e.g. for searching, topological sorting, critical path analysis, 
+shortest paths, minimum spanning trees,
+network flow), 
+pattern finding (for substrings and regular expressions), 
+algorithmic problem solving and algorithm
+design techniques 
+(e.g. greed, divide and conquer, dynamic programming, backtracking).

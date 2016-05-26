@@ -1,0 +1,5 @@
+apply fundamental application development skills in a modern programming environment;
+describe relevant programming that support software development practices;
+examine the historical development of programming languages and programming environments;
+develop and utilize best-practice clean coding techniques;
+adopt self-learning with modern on-line information support resources.

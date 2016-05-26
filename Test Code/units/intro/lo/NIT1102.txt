@@ -1,0 +1,5 @@
+On successful completion of this subject, students will be able to:
+Demonstrate skills in using a programming language;
+Apply suitable design strategies to develop a solution;
+Develop algorithms using basic programming language;
+Apply basic object-oriented software principles in problem solving.

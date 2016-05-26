@@ -1,0 +1,13 @@
+This unit will provide students with an overview of the fundamentals 
+required to create programs. Students will learn to develop descriptions 
+of algorithms and program logic using pseudocode which will be implemented 
+as working software programs using a visual procedural programming language. 
+The unit will explore a variety of application domains including: 
+computer games, business and science applications, computer generated arts, 
+computer-based simulations and the control of simple robots. 
+The topics covered will include the fundamental concepts: 
+data types and structures, basic types of input and output, 
+program control structures, and modular design along with the basics of 
+event-driven programming and objects. These topics will be covered while 
+placing an emphasis on the need to design program code that is easy to 
+maintain, readable, tested, and well documented.

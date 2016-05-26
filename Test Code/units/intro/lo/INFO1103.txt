@@ -1,0 +1,8 @@
+1. Ability to read, understand and trace Java code
+2. Basic experience of testing and debugging for basic Java programs
+3. Understanding of the concepts of inheritance, polymorphism and interfaces.
+4. Understanding of basic Java programming
+5. Understanding of the fundamental concepts of object oriented programming
+6. Ability to understand, modify and add functionality to Java programs
+7. Ability to convert simple pseudo-code into Java code
+8. Understanding and using arrays and array lists

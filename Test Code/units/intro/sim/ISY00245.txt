@@ -1,0 +1,13 @@
+Introduces the basic principles of programming using a block-structured procedural programming language in a command-line environment. Students will gain a thorough theoretical and practical understanding of the programming process, including the ability to write and debug structured programs, stepwise refine code, use top-down development, develop appropriate algorithms and write modularised code using blocks and functions. Emphasis in the unit is at all times on a sound understanding of the principles involved, with particular attention being paid to worked examples to demonstrate these principles in a clear and straightforward fashion.
+Topic 1 The program conversion process
+Topic 2 Writing a program
+Topic 3 Introduction to the debugging process
+Topic 4 Introduction to stepwise refinement
+Topic 5 Control structures 1: Selection
+Topic 6 Control structures 2: Iteration
+Topic 7 Arrays
+Topic 8 String handling
+Topic 9 File handling
+Topic 10 Methods
+Topic 11 User defined data types
+Topic 12 Revision

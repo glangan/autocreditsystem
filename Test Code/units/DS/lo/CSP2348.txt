@@ -1,0 +1,6 @@
+On completion of this unit, students should be able to:
+describe the general principles of algorithm complexity and performance;
+analyse complexity and performance of their associated algorisms;
+describe the concept, application, and specification of an abstract data type and employ Java classes to encapsulate abstract data types;
+apply abstract data types to programming practices;
+outline the role of abstract data types in software reusability.

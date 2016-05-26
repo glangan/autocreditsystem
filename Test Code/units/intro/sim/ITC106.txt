@@ -1,0 +1,9 @@
+The subject will cover the following topics:
+The major steps in the programming process.
+Techniques for analysing programming problems.
+Variables and expressions in programming.
+Control structures of sequence, selection, and iteration.
+Designing appropriate test data.
+Introduction to object orientation.
+Debugging techniques.
+Programming languages and their application areas.

@@ -1,0 +1,3 @@
+1. apply basic techniques to analyse the performance of algorithms
+2. explain the most important algorithms used in various common computer science applications;
+3. apply efficient algorithm design techniques and understand the limitations of algorithms.

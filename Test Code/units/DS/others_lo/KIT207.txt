@@ -1,0 +1,13 @@
+On successful completion of this unit, you will be able to:
+Students should be ICT professionals with the abilities and skills to:
+Apply agile development methodologies to the design and production of games and virtual worlds;
+Understand the relationship between the game designer and other members of the development team, including the ability to develop and modify art assets and scripts
+Design games and virtual worlds that appeal to a target audience and implement prototypes to inform and evaluate their design.
+Students should acquire attitudes needed by an ICT professional to:
+be an effective team member;
+apply a user-centred approach when designing a game/virtual world;
+take initiative and work independently;
+communicate effectively at a professional level;
+use abstraction and computational, creative and critical thinking to problem solve;
+continue lifelong learning;
+act in accordance with best practice and industry standards.

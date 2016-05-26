@@ -1,0 +1,11 @@
+Introduction to computer organization
+Machine level representation of data
+Programming in a system programming language
+Pointers and dynamic memory allocation
+Program semantics and arguments about correctness
+Induction and recursion
+Basic searching algorithms (linear and binary)
+Basic sorting algorithms (such as selection sort, insertion sort, quicksort)
+Basic data structures (binary search trees and hash tables)
+Asymptotic complexity
+Standard software development tools such as debuggers.

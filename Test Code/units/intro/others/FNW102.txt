@@ -1,0 +1,6 @@
+The objectives of this course are to:
+Identify the different type of Operating Systems, networking hardware and software
+Explain how signals are transmitted over wires, fiber optic cables, and wireless systems
+Describe the different types of addresses that computers use to send and receive information
+Describe the technologies used in local area networks (LANs) and wide area networks (WANs)
+Build a small peer-to-peer network
